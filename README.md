@@ -1,10 +1,18 @@
 comp312project
 ==============
-HELLO WORLD!!!
+CTA WIZARD
 
 By: Jherson Lopez
 
-Will be starting a new open source project. Check back soon for an updated README file as well the necessary source codes!
+This is a simple android only application for the Chicago "L" subway system.
+Currently it includes all subway lines.
+
+How to Install:
+
+Download Application from.... (COMING SOON)
+If there is no android device present feel free to download an emulator
+
+Please let me know via email if there any bugs!
 
 Contact Information:
 e: jlopez14@luc.edu

@@ -15,5 +15,7 @@ If there is no android device present feel free to download an emulator
 
 Please let me know via email if there any bugs!
 
+Also follow my wordpress regarding this app! http://ctawiz.wordpress.com/2014/05/01/intro/
+
 Contact Information:
 e: jlopez14@luc.edu

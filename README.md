@@ -9,7 +9,7 @@ Currently it includes all subway lines.
 
 How to Install: To download CTA WIZARD for your android device please click on this  http://speedy.sh/wP2Zm/CTA-WIZARD-1.1.apk
 
-Download Application from.... (COMING SOON)
+Or... if you would like HTML/JS/CSS platform, please click and download "Other Platform" file
 
 If there is no android device present feel free to download an emulator
 
